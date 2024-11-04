@@ -1,0 +1,111 @@
+body {
+    background-color: #8deded;
+    color: #800080;
+    padding-left: 20px;
+    padding-right: 20px;
+
+  }
+
+  h1 {
+    color: blueviolet;
+  }
+
+
+  a {
+    color: #6600FF;
+  }
+
+  nav ul {
+    background-color: #FF3647;
+    border: 2px solid #C71585;
+    padding: 12px;
+    border-radius: 10px;
+  }
+  nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: #FFEFD5;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #880055;
+  }
+
+  article {
+    border-radius: 10px;
+    padding: 20px;
+  }
+  
+  img {
+    border-radius: 20%;
+    border: 2px solid white;
+    width: 20%;
+  }
+  
+  img:hover {
+    border: 2px dashed navy;
+  }
+
+
+/*------------- HOME PAGE -----------------*/
+
+
+  #myCoolText {
+    color: #000080;
+    border: 2px ridge #bb99ff;
+    padding: 15px;
+    text-align: center;
+  }
+  
+
+
+/*------------- ATTRACTIONS PAGE -----------------*/
+
+
+.foodBG {
+    background: #7fd3d3;
+}
+  section {
+    border-top: 2px solid #F5FFFA;
+    padding-bottom: 10px;
+    margin-top: 15px;
+    padding: 15px;
+  }
+  
+
+  
+  .purpleBackground {
+    background-color: #ccb3ff;
+  }
+  
+  .darkerBackground {
+    background-color: #aa80ff;
+  }
+  
+
+
+
+/*------------- MUSIC PAGE -----------------*/
+
+
+table, th, td {
+    border: 1px solid #8d01ff;
+    border-collapse: collapse;
+    background-color: #fffdc5;
+    padding: 5px;
+    text-align: left;
+  }
+  
+
+/*------------- FOOD PAGE -----------------*/
+
+.yellowBackground {
+    background-color: #ffffcc;
+    color: #A52A2A;
+    border: 2px solid #f5fffa;
+    border-radius: 10px;
+  }
+  
